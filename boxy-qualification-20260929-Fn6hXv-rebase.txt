@@ -1,0 +1,3 @@
+Boxy approved merge-method acceptance
+Method rebase; step 1.
+Only merge into the dedicated test base.
