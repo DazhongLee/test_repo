@@ -1,0 +1,3 @@
+Boxy GitHub connector acceptance fixture
+Inline review anchor for connector testing.
+Only the dedicated test base branch may receive this file.
